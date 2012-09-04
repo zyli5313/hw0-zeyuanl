@@ -4,8 +4,8 @@
 	<artifactId>hw0-zeyuanl</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/zyli5313/hw0-zeyuanl.git</connection>
-		<developerConnection>scm:git:git://github.com/zyli5313/hw0-zeyuanl.git</developerConnection>
+		<connection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</connection>
+		<developerConnection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
