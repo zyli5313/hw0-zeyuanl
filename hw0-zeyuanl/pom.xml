@@ -6,7 +6,6 @@
 	<scm>
 		<connection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</connection>
 		<developerConnection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</developerConnection>
-		<tag>0.0.3</tag>
 	</scm>
 	<repositories>
 		<repository>
