@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f12.hw0</groupId>
 	<artifactId>hw0-zeyuanl</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<scm>
 		<connection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</connection>
 		<developerConnection>scm:git:git@github.com:zyli5313/hw0-zeyuanl.git</developerConnection>
