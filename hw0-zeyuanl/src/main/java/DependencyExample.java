@@ -11,5 +11,5 @@ public class DependencyExample {
     Tokenizer<Word> tokenizer = factory.getTokenizer(new StringReader(args[0]));
     System.out.println(tokenizer.tokenize());
   }
-
+    
 }
